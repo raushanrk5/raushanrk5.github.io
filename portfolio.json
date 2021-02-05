@@ -1,0 +1,166 @@
+{
+    "main": {
+        "name": "Raushan Kumar",
+        "occupation": "Web Developer & Student @SRM University",
+        "description": "Full Stack Web Developer & Computer Science Student",
+        "image": "profile.jpg",
+        "bio": "My name is Raushan, I'm a Full Stack Web Developer. Currently, I am a 3rd year CSE student at SRM University ",
+        "contactmsg": "You can contact me for getting further details or any freelancing work or anything else.",
+        "email": "kumarraushanrk5@gmail.com",
+        "mob": "6203035528",
+        "address": {
+            "street": "Ramapuram",
+            "city": "Chennai",
+            "state": "Tamilnadu",
+            "zip": "600089"
+        },
+        "website": "",
+        "resumedownload": "https://drive.google.com/file/d/1g7GX2t4uJehDUIjHc0hpx--2He-uNACK/view?usp=sharing",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100015237614107",
+                "className": "fa fa-facebook"
+            },
+
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/raushan-kumar-116b48195/",
+                "className":"fa fa-linkedin"
+            },
+
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/raushan_rk5/",
+                "className":"fa fa-instagram"
+            },
+
+            {
+                "name": "github",
+                "url": "https://github.com/raushanrk5",
+                "className":"fa fa-github"
+            }
+        ]
+
+    },
+
+    "resume": {
+        "skillmsg": "",
+        "education": [
+            {
+                "school": "Gyan Bharati Public School",
+                "degree": "Secondary School Certificate",
+                "passed": "April 2016",
+                "desc": "Passed with 9.98 CGPA"
+            },
+
+            {
+                "school": "PDKJ College",
+                "degree": "Intermediate College",
+                "passed": "May 2018",
+                "desc": "Passed with 66 Percent"
+            },
+
+            {
+                "school": "SRM University",
+                "degree": "B.Tech in Computer Science",
+                "passed": "June 2018 - 2022 ",
+                "desc": "9.92 CGPA(present)"
+            }
+        ],
+
+        "work": [
+            {
+                "company": "Putatoe Technologies",
+                "title": "Web Developer",
+                "years": "June 2020 - Nov 2020",
+                "desc": "Worked on several automations and django projects."
+            }
+        ],
+
+        "skills": [
+            {
+                "name": "HTML & CSS" ,
+                "level": "90%"
+            },
+
+            {
+                "name": "Javascript & jQuery" ,
+                "level": "70%"
+            },
+
+            {
+                "name": "React Js" ,
+                "level": "50%"
+            },
+
+            {
+                "name": "Python & Django" ,
+                "level": "80%"
+            },
+
+            {
+                "name": "Selenium Automation" ,
+                "level": "70%"
+            },
+
+            {
+                "name": "Mysql" ,
+                "level": "80%"
+            },
+
+            {
+                "name": "C, C++ & Data Structures" ,
+                "level": "70%"
+            }
+        ]
+    },
+
+    "portfolio": {
+        "projects": [
+              {
+                "title": "Netflix-clone",
+                "desc": "Netflix-clone frontend built with React Js & Firebase",
+                "img": "netflix.png",
+                "url": "https://netflix-clone-90b9b.web.app/"
+            },
+
+            {
+                "title": "Sports Mania",
+                "desc": "A sports frontend website, built with Bootstrap & Js  ",
+                "img": "sports_mania.png",
+                "url": "https://raushanrk5.github.io/sports-mania/"
+            },
+
+            {
+                "title": "Tindog",
+                "desc": "Tinder based website built with Html & Bootstrap",
+                "img": "tindog.png",
+                "url": "https://raushanrk5.github.io/Tommy/"
+            },
+
+            {
+                "title": "Amazon-clone",
+                "desc": "Amazon-clone frontend built with React Js & Firebase",
+                "img": "amazon.png",
+                "url": "https://clone-b8af6.web.app/"
+            },
+
+            {
+                "title": "Musical Play",
+                "desc": "A musical game for children, built with Html & Js",
+                "img": "musical_play.png",
+                "url": "https://raushanrk5.github.io/Musical-Play/"
+            }
+        ]
+    },
+
+    "testimonials": {
+        "testimonials": [
+          {
+            "text": "You should write here, some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+            "user": "raushan_rk5"
+          }
+        ]
+      }
+}

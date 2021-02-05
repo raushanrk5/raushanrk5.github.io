@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raushanrk5.github.io/static/css/main.5facb584.chunk.css",
+    "main.js": "/raushanrk5.github.io/static/js/main.bf02da12.chunk.js",
+    "main.js.map": "/raushanrk5.github.io/static/js/main.bf02da12.chunk.js.map",
+    "runtime-main.js": "/raushanrk5.github.io/static/js/runtime-main.4ec2a3e5.js",
+    "runtime-main.js.map": "/raushanrk5.github.io/static/js/runtime-main.4ec2a3e5.js.map",
+    "static/js/2.faae161c.chunk.js": "/raushanrk5.github.io/static/js/2.faae161c.chunk.js",
+    "static/js/2.faae161c.chunk.js.map": "/raushanrk5.github.io/static/js/2.faae161c.chunk.js.map",
+    "index.html": "/raushanrk5.github.io/index.html",
+    "precache-manifest.af7d83abda8f5bc12a3d2b20de1adf65.js": "/raushanrk5.github.io/precache-manifest.af7d83abda8f5bc12a3d2b20de1adf65.js",
+    "service-worker.js": "/raushanrk5.github.io/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/raushanrk5.github.io/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.faae161c.chunk.js.LICENSE.txt": "/raushanrk5.github.io/static/js/2.faae161c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ec2a3e5.js",
+    "static/js/2.faae161c.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.bf02da12.chunk.js"
+  ]
+}
