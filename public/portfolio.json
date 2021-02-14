@@ -50,14 +50,14 @@
             {
                 "school": "Gyan Bharati Public School",
                 "degree": "Secondary School Certificate",
-                "passed": "April 2016",
+                "passed": "April 2015",
                 "desc": "Passed with 9.98 CGPA"
             },
 
             {
                 "school": "PDKJ College",
                 "degree": "Intermediate College",
-                "passed": "May 2018",
+                "passed": "May 2017",
                 "desc": "Passed with 66 Percent"
             },
 
@@ -117,13 +117,27 @@
     },
 
     "portfolio": {
-        "projects": [
+        "Projects": [
               {
+                "title": "Bikes-world",
+                "desc": "A b2b purpose bikes e-commerce website built with django & Bootstrap",
+                "img": "bikes_world.png",
+                "url": "http://raushanrk5.pythonanywhere.com/"
+             }
+            
+             {
                 "title": "Netflix-clone",
                 "desc": "Netflix-clone frontend built with React Js & Firebase",
                 "img": "netflix.png",
                 "url": "https://netflix-clone-90b9b.web.app/"
             },
+            
+            {
+                "title": "Travel Blog",
+                "desc": "Travel blogging website built with django and bootstrap",
+                "img": "travel_blog.png",
+                "url": "http://raushanrk.pythonanywhere.com/"
+             }, 
 
             {
                 "title": "Sports Mania",
@@ -158,8 +172,8 @@
     "testimonials": {
         "testimonials": [
           {
-            "text": "You should write here, some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-            "user": "raushan_rk5"
+            "text": "---",
+            "user": "anonymus author"
           }
         ]
       }
